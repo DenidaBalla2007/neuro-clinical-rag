@@ -3,7 +3,7 @@ import chromadb
 import cohere
 import streamlit as st
 
-COHERE_API_KEY = "Gy4O1VXLDp21bOpHPPXzfgyFY4BS7MR6BlyZU3ng"
+COHERE_API_KEY = st.secrets["COHERE_API_KEY"]
 co = cohere.Client(COHERE_API_KEY)
 
 chroma_client = chromadb.PersistentClient(path="./chroma_db")

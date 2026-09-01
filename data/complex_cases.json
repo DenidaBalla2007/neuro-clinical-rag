@@ -1,0 +1,88 @@
+[
+  {
+    "case_id": "NEURO-001",
+    "specialty": "Neurology",
+    "presentation": "A 64-year-old right-handed man presents with acute onset of right-sided weakness, expressive aphasia, and a right visual field defect starting 90 minutes prior to arrival. National Institutes of Health Stroke Scale (NIHSS) score is 14. Blood pressure is 165/95 mmHg. Non-contrast head CT shows no acute hemorrhage.",
+    "differential_diagnosis": "Acute Ischemic Stroke (Left MCA territory), Transient Ischemic Attack (TIA), Todd's Palsy, Complex Migraine, Complicated Intracranial Mass.",
+    "gold_standard_action": "Immediate evaluation for IV recombinant tissue plasminogen activator (rt-PA) eligibility within the 4.5-hour window, followed by urgent CTA/CT perfusion to assess for mechanical thrombectomy."
+  },
+  {
+    "case_id": "NEURO-002",
+    "specialty": "Neurology",
+    "presentation": "A 28-year-old woman is brought to the emergency department by her family after experiencing a generalized tonic-clonic seizure lasting over 10 minutes without regaining consciousness between episodes. She has a known history of epilepsy, but reportedly missed her anti-seizure medications for the past three days.",
+    "differential_diagnosis": "Status Epilepticus, Acute Encephalitis, Metabolic Derangement (Hypoglycemia/Hyponatremia), Drug Withdrawal Seizure.",
+    "gold_standard_action": "Secure airway, administer immediate first-line IV benzodiazepines (e.g., Lorazepam), initiate second-line anti-seizure IV medications (e.g., Levetiracetam), and monitor continuous EEG."
+  }
+  
+  {
+    "case_id": "NEURO-001",
+    "specialty": "Neurology",
+    "presentation": "A 64-year-old right-handed man presents with acute onset of right-sided weakness, expressive aphasia, and a right visual field defect starting 90 minutes prior to arrival. National Institutes of Health Stroke Scale (NIHSS) score is 14. Blood pressure is 165/95 mmHg. Non-contrast head CT shows no acute hemorrhage.",
+    "differential_diagnosis": "Acute Ischemic Stroke (Left MCA territory), Transient Ischemic Attack (TIA), Todd's Palsy, Complex Migraine, Complicated Intracranial Mass.",
+    "gold_standard_action": "Immediate evaluation for IV recombinant tissue plasminogen activator (rt-PA) eligibility within the 4.5-hour window, followed by urgent CTA/CT perfusion to assess for mechanical thrombectomy."
+  },
+  {
+    "case_id": "NEURO-002",
+    "specialty": "Neurology",
+    "presentation": "A 28-year-old woman is brought to the emergency department by her family after experiencing a generalized tonic-clonic seizure lasting over 10 minutes without regaining consciousness between episodes. She has a known history of epilepsy, but reportedly missed her anti-seizure medications for the past three days.",
+    "differential_diagnosis": "Status Epilepticus, Acute Encephalitis, Metabolic Derangement (Hypoglycemia/Hyponatremia), Drug Withdrawal Seizure.",
+    "gold_standard_action": "Secure airway, administer immediate first-line IV benzodiazepines (e.g., Lorazepam), initiate second-line anti-seizure IV medications (e.g., Levetiracetam), and monitor continuous EEG."
+  },
+  {
+    "case_id": "NEURO-003",
+    "specialty": "Neurology",
+    "presentation": "A 32-year-old woman presents with subacute onset of binocular diplopia and progressive weakness in her limbs over the past 3 weeks, which worsens significantly toward the end of the day. She also notes mild bilateral ptosis and difficulty chewing tough foods.",
+    "differential_diagnosis": "Myasthenia Gravis, Lambert-Eaton Myasthenic Syndrome, Botulism, Brainstem Glioma, Miller Fisher Syndrome.",
+    "gold_standard_action": "Perform anti-acetylcholine receptor (AChR) antibody testing, repetitive nerve stimulation (RNS) / single-fiber EMG, and evaluate for thymoma with a chest CT."
+  },
+  {
+    "case_id": "NEURO-004",
+    "specialty": "Neurology",
+    "presentation": "A 45-year-old man presents with the worst headache of his life ('thunderclap headache') reaching maximum intensity within seconds, accompanied by acute neck stiffness, nausea, and a brief episode of syncope immediately after onset. Non-contrast head CT in the ER is negative for blood.",
+    "differential_diagnosis": "Subarachnoid Hemorrhage (SAH), Reversible Cerebral Vasoconstriction Syndrome (RCVS), Pituitary Apoplexy, Cervicogenic Headache.",
+    "gold_standard_action": "Perform an urgent lumbar puncture (LP) to evaluate for xanthochromia if the CT is negative, followed by a cerebral digital subtraction angiography (DSA) to rule out an aneurysm."
+  },
+  {
+    "case_id": "NEURO-005",
+    "specialty": "Neurology",
+    "presentation": "A 24-year-old female presents with a 4-day history of progressive, ascending symmetrical muscle weakness starting in her lower extremities, accompanied by distal paresthesias and absent deep tendon reflexes in the legs. She reports having a mild gastrointestinal illness two weeks ago.",
+    "differential_diagnosis": "Guillain-Barré Syndrome (Acute Inflammatory Demyelinating Polyneuropathy), Tick Paralysis, Botulism, Spinal Cord Compression.",
+    "gold_standard_action": "Admit to ICU for close monitoring of forced vital capacity (FVC), perform lumbar puncture showing albumin-cytologic dissociation, and initiate IVIG or plasma exchange."
+  },
+  {
+    "case_id": "NEURO-006",
+    "specialty": "Neurology",
+    "presentation": "A 72-year-old man presents with progressive cognitive decline, gait difficulties, and urinary incontinence over the past 6 months. Family members report he walks with a magnetic, 'feet glued to the floor' gait. Mini-Mental State Examination shows frontal lobe dysfunction.",
+    "differential_diagnosis": "Normal Pressure Hydrocephalus (NPH), Alzheimer's Disease, Subcortical Ischemic Vascular Dementia, Chronic Subdural Hematoma.",
+    "gold_standard_action": "Order high-resolution brain MRI showing ventriculomegaly disproportionate to sulcal atrophy, and perform a large-volume lumbar puncture (tap test) to assess gait reversibility."
+  },
+  {
+    "case_id": "NEURO-007",
+    "specialty": "Neurology",
+    "presentation": "A 55-year-old man presents with a 2-month history of asymmetric, painless muscle weakness, muscle cramps, and fasciculations in his right hand, which has now progressed to his arm and shoulder. He also exhibits hyperreflexia and a positive Babinski sign on physical exam.",
+    "differential_diagnosis": "Amyotrophic Lateral Sclerosis (ALS), Cervical Spondylotic Myelopathy, Multifocal Motor Neuropathy, Inclusion Body Myositis.",
+    "gold_standard_action": "Perform electromyography (EMG) and nerve conduction studies (NCS) demonstrating widespread active and chronic denervation, and rule out structural cord lesions with cervical spine MRI."
+  },
+  {
+    "case_id": "NEURO-008",
+    "specialty": "Neurology",
+    "presentation": "A 35-year-old woman presents with subacute vision loss in her left eye accompanied by pain on ocular movement, particularly with lateral gaze. She also notes mild electric shock-like sensations running down her spine when bending her neck forward (Lhermitte's sign).",
+    "differential_diagnosis": "Optic Neuritis, Multiple Sclerosis, Neuromyelitis Optica Spectrum Disorder (NMOSD), Myelin Oligodendrocyte Glycoprotein (MOG) antibody disease.",
+    "gold_standard_action": "Perform urgent orbital MRI with gadolinium, brain and spinal cord MRI to check for dissemination in space and time, and initiate high-dose intravenous methylprednisolone."
+  },
+  {
+    "case_id": "NEURO-009",
+    "specialty": "Neurology",
+    "presentation": "A 68-year-old man presents with resting tremor in his right hand ('pill-rolling'), generalized bradykinesia, rigidity in his upper limbs, and a masked facial expression. His wife notes he frequently falls backward when turning around.",
+    "differential_diagnosis": "Parkinson's Disease, Progressive Supranuclear Palsy (PSP), Multiple System Atrophy (MSA), Drug-Induced Parkinsonism.",
+    "gold_standard_action": "Trial of carbidopa-levodopa therapy to assess motor response, and comprehensive neurological evaluation for autonomic dysfunction and atypical features."
+  },
+  {
+    "case_id": "NEURO-010",
+    "specialty": "Neurology",
+    "presentation": "A 19-year-old college student presents with acute onset of high fever, severe throbbing headache, altered mental status, and a petechial rash on his lower extremities. Physical examination reveals marked nuchal rigidity, positive Kernig and Brudzinski signs.",
+    "differential_diagnosis": "Bacterial Meningitis (Neisseria meningitidis), Viral Encephalitis (HSV-1), Subarachnoid Hemorrhage, Brain Abscess.",
+    "gold_standard_action": "Immediate administration of empiric broad-spectrum IV antibiotics and dexamethasone prior to LP, followed by urgent head CT and lumbar puncture for CSF analysis and culture."
+  }
+
+]
