@@ -56,7 +56,7 @@ def get_collection(_co):
     return collection
  
  
-# --- Reference knowledge base ------------------------------------------------
+
  
 REFERENCE_CASES = [
     {
